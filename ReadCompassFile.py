@@ -1,7 +1,7 @@
 #import readrecordfile as Base
 import datetime
 
-class ReadAccFile():
+class ReadCompassFile():
 	# Read accelerate log file
 
 	def __init__(self, fileName=''):
@@ -24,6 +24,8 @@ class ReadAccFile():
 	def ReadNextLine(self):
 		if self.lineNum < self.totalLine:
 			ret = True
+		else:
+			ret = False
 		if ret:
 			self.__parseLine(self.lineNum)
 			self.lineNum = self.lineNum + 1
@@ -35,7 +37,7 @@ class ReadAccFile():
 
 
 if __name__=="__main__":
-	a = ReadAccFile("./data/Orientation_18_Feb_2014_14-53-07_GMT.txt")
+	a = ReadCompassFile("./data/Orientation_18_Feb_2014_14-53-07_GMT.txt")
 	a.ReadNextLine()
 	print(a.time)
 	print(a.azimuth)

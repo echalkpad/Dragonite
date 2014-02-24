@@ -30,6 +30,8 @@ class ReadAccFile():
 	def ReadNextLine(self):
 		if self.lineNum < self.totalLine:
 			ret = True
+		else:
+			ret = False
 		if ret:
 			self.__parseLine(self.lineNum)
 			self.lineNum = self.lineNum + 1
