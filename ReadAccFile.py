@@ -7,6 +7,8 @@ class ReadAccFile():
 	def __init__(self, fileName=''):
 		#Base.readrecordfile.__init__(self, fileName)
 		self.lineNum = 0
+		self.time = 0
+		self.dt = 0
 		self.data = open(fileName).read().split()
 		self.totalLine = len(self.data)
 		print self.totalLine
@@ -14,12 +16,16 @@ class ReadAccFile():
 
 	def __parseLine(self, lineNum):
 		parsedData = self.data[lineNum].split(",")
-		self.time = parsedData[0]
+		self.time_pre = self.time
+		self.time = int(parsedData[0])
+		if(self.lineNum == 0):
+			self.dt = 0
+		else:
+			self.dt = int(self.time) - int(self.time_pre)
 		self.accType = int(parsedData[1])
 		self.accX = float(parsedData[2])
 		self.accY = float(parsedData[3])
 		self.accZ = float(parsedData[4])
-
 
 	def ReadNextLine(self):
 		if self.lineNum < self.totalLine:
