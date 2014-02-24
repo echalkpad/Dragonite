@@ -18,34 +18,14 @@ def returnMatrix(accFile):
 
 def prepareMatrix(compassFile):
 	a = rcf.ReadCompassFile(compassFile)
-	time = []
-	length = []
 	angle = []
 	while a.ReadNextLine():
+		print a.azimuth
 		angle.append(a.azimuth)
-	y = np.array(angle)
-	z = np.diff(y)
-	#x = np.random.random_integers(2,size=(len(z)))
-	a = [0]
-	b = [0]
-	i = 0
-	x = 0
-	y = 0
-	for dire in z:
-		if i >= 10:
-			try:
-				x,y = pt.calNewPos([x+0,y+0],10,dire,True)
-				#print x,y
-				a.append(x)
-				b.append(y)
-			except:
-				pass
-			i = 0
-		i = i + 1
-	a = np.array(a)
-	b = np.array(b)
-	
-	pt.plotTrace(a,b)
+	#y = np.array(angle)
+	M = pt.calNewPosMatrix([0,0],[1]*len(angle),angle,True)
+	print "HI"
+	pt.plotTraceM(M)
 
 #returnMatrix(accFile)
 

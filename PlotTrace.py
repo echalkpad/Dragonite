@@ -32,12 +32,38 @@ def calNewPos(initialPos, length, direction, regulation=True):
     newPostion.y = initialPos[1]+ length * math.sin(math.radians(direction))
     #newPostion.Show()
     return newPostion.x, newPostion.y
+
+def calNewPosMatrix(initialPos, length_M, direction_M, regulation=True):
+    assert len(length_M) == len(direction_M)
+    # cal the difference between the previous direction and current direction
+    #direction_diff_M = np.diff(np.array(direction_M))
+    #print direction_diff_M
+    i = 0
+    PosMatrix = []
+    PosMatrix.append(initialPos)
+    pre_Position = initialPos
+    while i < len(length_M):
+        x,y = calNewPos(pre_Position, length_M[i], direction_M[i], regulation)
+        i = i + 1
+        PosMatrix.append([x,y])
+        pre_Position = [x,y]
+    print PosMatrix
+    return PosMatrix
+
+
+
+
+aa = [1,1,1,1]
+bb = [0,0,90,180]
+calNewPosMatrix([0,0], aa, bb, True)
 #calNewPos([0,0],10,2,180,True)
 x = np.linspace(0, 2*np.pi*np.random.random_integers(100), 100)
 y = np.sin(x)
 #print y
 y = np.random.random_integers(600,size=(100.))
 #print y
+
+
     
 def plotTrace(x, y):
     # len x shold equal to len y
@@ -52,5 +78,16 @@ def plotTrace(x, y):
     #plt.plot(x,y)
     plt.show()
 
+def plotTraceM(Pos):
+    x = []
+    y = []
+    for item in Pos:
+        print item
+        x.append(item[0])
+        y.append(item[1])
+    assert len(x)  == len(y)
+    x = np.array(x)
+    y = np.array(y)
+    plotTrace(x,y)
 
 #plotTrace(x,y)
