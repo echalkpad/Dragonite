@@ -1,4 +1,11 @@
 #!/usr/bin/python
+#-*- encoding: utf-8 -*-
+'''
+Created on 2014-02-25 15:10:21
+
+@author: quake0day
+'''
+
 #import readrecordfile as Base
 import datetime
 
@@ -31,10 +38,6 @@ class ReadCompassFile():
 			self.__parseLine(self.lineNum)
 			self.lineNum = self.lineNum + 1
 		return ret
-
-	def parseLine(self):
-		print self.data
-
 
 
 if __name__=="__main__":

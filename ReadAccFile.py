@@ -1,6 +1,13 @@
 #import readrecordfile as Base
-import datetime
+#-*- encoding: utf-8 -*-
+'''
+Created on 2014-02-25 15:10:30
 
+@author: quake0day
+'''
+
+import datetime
+import math
 class ReadAccFile():
 	# Read accelerate log file
 
@@ -26,6 +33,7 @@ class ReadAccFile():
 		self.accX = float(parsedData[2])
 		self.accY = float(parsedData[3])
 		self.accZ = float(parsedData[4])
+		self.accMix = math.sqrt(self.accX**2 + self.accY**2 + self.accZ**2)
 
 	def ReadNextLine(self):
 		if self.lineNum < self.totalLine:

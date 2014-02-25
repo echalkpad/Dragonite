@@ -1,4 +1,10 @@
 #!/usr/bin/python
+#-*- encoding: utf-8 -*-
+'''
+Created on 2014-02-25 15:10:14
+
+@author: quake0day
+'''
 
 class Position():
 	# Define postion class
