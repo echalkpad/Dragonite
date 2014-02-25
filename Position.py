@@ -10,11 +10,12 @@ class Position():
 		self.x = x
 	def y(self, y):
 		self.y = y
-
+	# return y
 	def getX(self):
-		return self.x
-
+		return float(self.x)
+	# return x
 	def getY(self):
-		return self.y
+		return float(self.y)
+
 	def Show(self):
 		print self.x,self.y
