@@ -5,34 +5,36 @@ import numpy as np
 import Position as Pos
 import math
 
-# Align direction to one of the domination axis
+# Align direction to one of the domination axis 
+# based on manhattan assumption
 def regulationDirection(direction, domination_axis):
-    print math.radians(direction)
-    """if direction > 1:
-        print direction
-    if direction < 45:
-        direction = 0
+    #print direction
+    assert(direction <= 360 and direction >= 0)
+    if direction < 45 or direction > 315:
+        direction = 0+domination_axis
     elif direction >= 45 and direction <= 135:
-        direction = 90
-    elif direction > 135:
-        direction = -90
-        """
+        direction = 90+domination_axis
+    elif direction > 135 and direction <= 225:
+        direction = 180+domination_axis
+    elif direction > 225 and direction <= 315:
+        direction = 270+domination_axis
     return direction
-
-# initial position
-# moving speed
-# time
+    
+# Input 
+# initial position -- [Pos.x Pos.y]
+# Length
 # direction in dgree
 # align to dominant axis?
 def calNewPos(initialPos, length, direction, regulation=True):
     if regulation is True:
-        direction = regulationDirection(direction,[0,0])
+        direction = regulationDirection(direction,45)
     newPostion = Pos.Position(0,0)
-    newPostion.x = initialPos[0] + length * math.cos(math.radians(direction))
-    newPostion.y = initialPos[1]+ length * math.sin(math.radians(direction))
+    newPostion.x = initialPos.x + length * math.cos(math.radians(direction))
+    newPostion.y = initialPos.y+ length * math.sin(math.radians(direction))
     #newPostion.Show()
-    return newPostion.x, newPostion.y
+    return newPostion
 
+# calculate a matrix for all x,y points in a path
 def calNewPosMatrix(initialPos, length_M, direction_M, regulation=True):
     assert len(length_M) == len(direction_M)
     # cal the difference between the previous direction and current direction
@@ -43,19 +45,18 @@ def calNewPosMatrix(initialPos, length_M, direction_M, regulation=True):
     PosMatrix.append(initialPos)
     pre_Position = initialPos
     while i < len(length_M):
-        x,y = calNewPos(pre_Position, length_M[i], direction_M[i], regulation)
+        newPos = calNewPos(pre_Position, length_M[i], direction_M[i], regulation)
         i = i + 1
-        PosMatrix.append([x,y])
-        pre_Position = [x,y]
-    print PosMatrix
+        PosMatrix.append([newPos.x,newPos.y])
+        pre_Position = newPos
     return PosMatrix
 
 
 
-
+newPostion = Pos.Position(0,0)
 aa = [1,1,1,1]
 bb = [0,0,90,180]
-calNewPosMatrix([0,0], aa, bb, True)
+calNewPosMatrix(newPostion, aa, bb, True)
 #calNewPos([0,0],10,2,180,True)
 x = np.linspace(0, 2*np.pi*np.random.random_integers(100), 100)
 y = np.sin(x)
