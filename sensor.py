@@ -16,8 +16,6 @@ compassFile = "./data/Orientation_24_Feb_2014_22-52-14_GMT.txt"
 
 def returnMatrix(accFile):
 	a = raf.ReadAccFile(accFile)
-	acc = []
-	time = []
 	foo = []
 	while a.ReadNextLine():
 		foo.append([a.time, a.accMix])
@@ -36,6 +34,6 @@ def prepareMatrix(compassFile):
 	M = ma.calNewPosMatrix(initialPos,[1]*len(angle),angle,True)
 	pt.plotTraceM(M)
 
-returnMatrix(accFile)
+#returnMatrix(accFile)
 
-#prepareMatrix(compassFile)
+prepareMatrix(compassFile)
