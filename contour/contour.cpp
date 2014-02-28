@@ -52,9 +52,9 @@ Point primary_vec(vector<Point>& v) {
             if (l > aligned) {
                 aligned = l;
                 cur = deg;
-                cout << "Deg: " << deg << " Aligned: " << aligned <<  " cnt: " << cnt << " step: " << step << endl;
+//                cout << "Deg: " << deg << " Aligned: " << aligned <<  " cnt: " << cnt << " step: " << step << endl;
                 if (cnt >= required) {
-                    cout << "Required: " << required << " Aligned: " << cnt << endl;
+//                    cout << "Required: " << required << " Aligned: " << cnt << endl;
                     finished = true;
                 }
             }
@@ -76,6 +76,11 @@ void line_on_angle(Mat& m, double deg, int l, Scalar color) {
 }
 
 int main(int argc, char* argv[]) {
+    bool debug = false;
+    if (argc >=3) {
+        debug = true;
+    }
+
     Mat edge;
     Mat image = imread(argv[1], CV_LOAD_IMAGE_GRAYSCALE);
     Mat out;
@@ -115,24 +120,23 @@ int main(int argc, char* argv[]) {
     }
 
     Point p = primary_vec(ct);
-    cout << "Step: " << step << " Primary: " << p.x << " " << p.y << endl;
+    cout << p.x + 90 << " " << p.y + 90 << endl;
+//    cout << "Step: " << step << " Primary: " << p.x << " " << p.y << endl;
 
-    for (int i=0; i<ct.size()-step; i+=step) {
-        Point p1 = ct[i];
-        Point p2 = ct[i+step];
-        line(outmat, p1, p2, Scalar(255, 255, 0));
+    if (debug) {
+        for (int i=0; i<ct.size()-step; i+=step) {
+            Point p1 = ct[i];
+            Point p2 = ct[i+step];
+            line(outmat, p1, p2, Scalar(255, 255, 0));
+        }
+
+        line_on_angle(outmat, p.x, 50, Scalar(0, 0, 255));
+        line_on_angle(outmat, p.y, 50, Scalar(255, 0, 0));
+
+        namedWindow("win");
+        imshow("win", outmat);
+
+        while (waitKey(20) != 32);
     }
-
-    line_on_angle(outmat, p.x, 50, Scalar(0, 0, 255));
-    line_on_angle(outmat, p.y, 50, Scalar(255, 0, 0));
-
-    // for (auto c:contours) {
-    //     double area = contourArea(c, true);
-    //     cout << "Area: " << area << endl;
-    // }
-    namedWindow("win");
-    imshow("win", outmat);
-
-    while (waitKey(20) != 32);
     return 0;
 }
