@@ -1,7 +1,5 @@
 /**
- * @file SURF_FlannMatcher
- * @brief SURF detector + descriptor + FLANN Matcher
- * @author A. Huaman
+ * Refer here: http://stackoverflow.com/questions/17967950/improve-matching-of-feature-points-with-opencv
  */
 
 #include <cstdio>
