@@ -29,28 +29,50 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
     adj1 = trace1['adjacency'][match_trace1_id]
     adj2 = trace2['adjacency'][match_trace2_id]
 
+
+    # change the merged path one step before the merged line
+
     #if any(match_trace1_id in s for s in trace1['adjacency'].values()):
+    pre_match1_key = None
+    pre_match2_key = None
+    pre_match_key = None
+
     pre_match1 = []
     pre_match2 = []
 
-    for s in trace1['adjacency'].values():
-        if match_trace1_id in s:
-            print s
-            pre_match1 = s
-    for t in trace2['adjacency'].values():
-        if match_trace2_id in t:
-            print t
-            pre_match2 = t
-    if trace1['length'][pre_match1[0]] > trace2['length'][pre_match2[0]]:
-        print "HI"
-    else:
-        print "NO"
 
+    # find path that connect to the target merged path
+    for x,s in zip(trace1['adjacency'].keys(),trace1['adjacency'].values()):
+        if match_trace1_id in s:
+            pre_match1 = s
+            pre_match1_key = x
+
+    for y,t in zip(trace2['adjacency'].keys(),trace2['adjacency'].values()):
+        if match_trace2_id in t:
+            pre_match2 = t
+            pre_match2_key = y
+
+    # If two (pre)paths needs to merge, find the one that shall be delete
+    try:
+        if trace1['length'][pre_match1[0]] > trace2['length'][pre_match2[0]]:
+            pre_match_key = pre_match2_key
+        else:
+            pre_match_key = pre_match1_key
+        print pre_match1_key,pre_match2_key,pre_match_key
+    except:
+        print "No Pre_match"
+        pass
+
+
+    # change the merged path one step after the merged line
+    print adj1
+    print adj2
+    adj_new=[None,None]
     # Scenario 1
     # if 
-    adj_new=[None,None]
     if (adj1[0] == None and adj2[1] == None and adj1[1] != None and adj2[0] != None) \
     or (adj1[1] == None and adj2[0] == None and adj1[0] != None and adj2[1] != None):
+        print "scenario 1"
         if (adj1[0] == None):
             adj_new[0] = adj2[0]
             adj_new[1] = adj1[1]
@@ -58,6 +80,44 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
             adj_new[0] = adj1[0]
             adj_new[1] = adj2[1]
 
+    # Scenario 2
+    if (adj1[0] == None and adj1[1] == None)\
+    or (adj2[0] == None and adj2[1] == None):
+        print "scenario 2"
+        if (adj1[0] == None and adj1[1] == None):
+            print adj2
+            adj_new[0] = adj2[0]
+            adj_new[1] = adj2[1]
+        else:
+            adj_new[0] = adj1[0]
+            adj_new[1] = adj1[1]
+
+    # Scenario 3
+    print adj1,adj2
+    if (adj1[0] == None and adj2[0] == None and adj1[1] != None and adj2[1] != None) \
+    or (adj1[1] == None and adj2[1] == None and adj1[0] != None and adj2[0] != None):
+        print "scenario 3"
+        trim_path = None
+        if (adj1[0] == None):
+            if trace1['length'][adj1[1]] > trace2['length'][adj2[1]]:
+                trim_path = adj2[1]
+                adj_new[0] = None
+                adj_new[1] = adj1[1]
+            else:
+                trim_path = adj1[1]
+                adj_new[0] = None
+                adj_new[1] = adj2[1]
+        elif (adj1[1] == None):
+            if trace1['length'][adj1[0]] > trace2['length'][adj2[0]]:
+                trim_path = adj2[0]
+                adj_new[0] = adj1[0]
+                adj_new[1] = None
+            else:
+                trim_path = adj1[0]
+                adj_new[0] = adj2[0]
+                adj_new[1] = None
+
+    print adj_new
     adj_merge = dict(trace1['adjacency'],**trace2['adjacency'])
     merged_length = dict(trace1['length'],**trace2['length'])
     merged_id = trace1['id'] + trace2['id']
@@ -69,6 +129,8 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
         del adj_merge[match_trace2_id]
         del merged_length[match_trace2_id]
         merged_id.remove(match_trace2_id)
+        for s in adj_merge:
+            print s
         for im in merged_image:
             #print im.keys()
             if im.values()[0] == match_trace2_id:
@@ -78,11 +140,27 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
         del adj_merge[match_trace1_id]
         del merged_length[match_trace1_id]
         merged_id.remove(match_trace1_id)
+        print "There"
+        print match_trace1_id
+        for key,value in zip(adj_merge.keys(),adj_merge.values()):
+            if match_trace1_id in value:
+                i = 0
+                while i < len(value):
+                    print value[i]
+                    if value[i] == match_trace1_id:
+                        value[i] = match_trace2_id
+                    i += 1
+
+        print adj_merge
         for im in merged_image:
             #print im.keys()
             if im.values()[0] == match_trace1_id:
                 im[im.keys()[0]] = match_trace2_id
-
+    if (pre_match_key != None):
+        del adj_merge[pre_match_key]
+    if (trim_path != None):
+        print trim_path
+        del adj_merge[trim_path]
 
     #print adj_merge
     #print merged_length
@@ -101,4 +179,4 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
 
 
     return 0
-connect2MatchedTrace(trace1, trace2, 3, 5, False)
+connect2MatchedTrace(trace1, trace2, 2, 5, False)
