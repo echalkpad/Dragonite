@@ -26,6 +26,8 @@ trace2 = {
 
 
 def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, reverse=False):
+    match_done = False
+    contniue_match = []
     adj1 = trace1['adjacency'][match_trace1_id]
     adj2 = trace2['adjacency'][match_trace2_id]
 
@@ -98,25 +100,30 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
     or (adj1[1] == None and adj2[1] == None and adj1[0] != None and adj2[0] != None):
         print "scenario 3"
         trim_path = None
+        preserved_path = None
         if (adj1[0] == None):
             if trace1['length'][adj1[1]] > trace2['length'][adj2[1]]:
                 trim_path = adj2[1]
+                preserved_path = adj1[1]
                 adj_new[0] = None
                 adj_new[1] = adj1[1]
             else:
                 trim_path = adj1[1]
+                preserved_path = adj2[1]
                 adj_new[0] = None
                 adj_new[1] = adj2[1]
         elif (adj1[1] == None):
             if trace1['length'][adj1[0]] > trace2['length'][adj2[0]]:
                 trim_path = adj2[0]
+                preserved_path = adj1[0]
                 adj_new[0] = adj1[0]
                 adj_new[1] = None
             else:
                 trim_path = adj1[0]
+                preserved_path = adj2[0]
                 adj_new[0] = adj2[0]
                 adj_new[1] = None
-
+    print "NEW ADJ"
     print adj_new
     adj_merge = dict(trace1['adjacency'],**trace2['adjacency'])
     merged_length = dict(trace1['length'],**trace2['length'])
@@ -129,12 +136,19 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
         del adj_merge[match_trace2_id]
         del merged_length[match_trace2_id]
         merged_id.remove(match_trace2_id)
-        for s in adj_merge:
-            print s
+        for key,value in zip(adj_merge.keys(),adj_merge.values()):
+            if match_trace2_id in value:
+                i = 0
+                while i < len(value):
+                    print value[i]
+                    if value[i] == match_trace2_id:
+                        value[i] = match_trace1_id
+                    i += 1
         for im in merged_image:
             #print im.keys()
             if im.values()[0] == match_trace2_id:
                 im[im.keys()[0]] = match_trace1_id
+        print adj_merge
     else:
         adj_merge[match_trace2_id] = adj_new
         del adj_merge[match_trace1_id]
@@ -156,11 +170,27 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
             #print im.keys()
             if im.values()[0] == match_trace1_id:
                 im[im.keys()[0]] = match_trace2_id
-    if (pre_match_key != None):
-        del adj_merge[pre_match_key]
-    if (trim_path != None):
-        print trim_path
-        del adj_merge[trim_path]
+    try:
+        if (pre_match_key != None):
+            del adj_merge[pre_match_key]
+        if (trim_path != None):
+            print trim_path
+            print adj_merge[preserved_path]
+            print adj_merge[trim_path]
+            # Make sure two lists are in the same length
+            assert(len(adj_merge[preserved_path]) == len(adj_merge[trim_path]))
+            i = 0
+            while i < len(adj_merge[preserved_path]):
+                if adj_merge[preserved_path][i] == None and adj_merge[trim_path][i] != None:
+                    adj_merge[preserved_path][i] = adj_merge[trim_path][i]
+                elif adj_merge[preserved_path][i] == None and adj_merge[trim_path][i] == None:
+                    pass
+                elif adj_merge[preserved_path][i] != None and adj_merge[preserved_path] != None:
+                    contniue_match.append([trim_path,preserved_path])
+                i += 1
+            del adj_merge[trim_path]
+    except:
+        pass
 
     #print adj_merge
     #print merged_length
@@ -171,6 +201,7 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
                     'adjacency': adj_merge,
                     'image': merged_image}
     print merged_trace
+    print contniue_match
 
 
     #merged_trace={}
@@ -179,4 +210,4 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
 
 
     return 0
-connect2MatchedTrace(trace1, trace2, 2, 5, False)
+connect2MatchedTrace(trace1, trace2, 2, 4, False)
