@@ -38,6 +38,7 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
     pre_match1_key = None
     pre_match2_key = None
     pre_match_key = None
+    pre_match_key_del = None
 
     pre_match1 = []
     pre_match2 = []
@@ -58,8 +59,10 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
     try:
         if trace1['length'][pre_match1[0]] > trace2['length'][pre_match2[0]]:
             pre_match_key = pre_match2_key
+            pre_match_key_del = pre_match1_key
         else:
             pre_match_key = pre_match1_key
+            pre_match_key_del = pre_match2_key
         print pre_match1_key,pre_match2_key,pre_match_key
     except:
         print "No Pre_match"
@@ -172,7 +175,20 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
                 im[im.keys()[0]] = match_trace2_id
     try:
         if (pre_match_key != None):
+            print "HELLOW"
+            print pre_match1_key
+            print pre_match2_key
+
+            i = 0
+            j = 0
+            while i < len(adj_merge):
+                while j < len(adj_merge.values()[i]):
+                    if adj_merge.values()[i][j] == pre_match_key:
+                        adj_merge.values()[i][j] = pre_match_key_del
+                    j += 1
+                i += 1
             del adj_merge[pre_match_key]
+
         if (trim_path != None):
             print trim_path
             print adj_merge[preserved_path]
@@ -180,6 +196,8 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
             # Make sure two lists are in the same length
             assert(len(adj_merge[preserved_path]) == len(adj_merge[trim_path]))
             i = 0
+            # with different situation apply different func
+            # try to perserve the "next path" info when trimming certain path
             while i < len(adj_merge[preserved_path]):
                 if adj_merge[preserved_path][i] == None and adj_merge[trim_path][i] != None:
                     adj_merge[preserved_path][i] = adj_merge[trim_path][i]
@@ -210,4 +228,4 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
 
 
     return 0
-connect2MatchedTrace(trace1, trace2, 2, 4, False)
+connect2MatchedTrace(trace1, trace2, 3, 6, False)
