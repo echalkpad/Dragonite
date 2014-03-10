@@ -51,8 +51,8 @@ int main(int argc, char* argv[]) {
                 continue;
 
             // Guard box
-            if (guard_range(display_next.cols, features_next[i].x, 0.25) &&
-                guard_range(display_next.rows, features_next[i].y, 0.00))
+            if (guard_range(display_next.cols, features_next[i].x, 0.15) &&
+                guard_range(display_next.rows, features_next[i].y, 0.1))
                 continue;
 
             cout << "[" << features_prev[i] << ", " << features_next[i] << "]" << endl;

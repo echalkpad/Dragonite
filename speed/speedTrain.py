@@ -5,17 +5,25 @@ from sklearn import svm
 import numpy as np
 import pylab as pl
 
-BINS = [0.5, 1.0, 1.5, 2.0]
+BINS = [0.75, 1.5]
 FLOW = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'build/flow')
 
+# def find_bin(val):
+#     values = map(lambda x: abs(x - val), BINS)
+#     a = float('Inf')
+#     index = -1
+#     for i in xrange(len(values)):
+#         if values[i] < a:
+#             a = values[i]
+#             index = i
+
+#     return index
+
 def find_bin(val):
-    values = map(lambda x: abs(x - val), BINS)
-    a = float('Inf')
-    index = -1
-    for i in xrange(len(values)):
-        if values[i] < a:
-            a = values[i]
+    for i in xrange(len(BINS)):
+        if val < BINS[i]:
             index = i
+            break
 
     return index
 
@@ -27,14 +35,33 @@ def run_flow(i1, i2):
     cnt = 0.00001
     dx = 0.0
     dy = 0.0
+    max_x = 0.00001
+    max_y = 0.00001
+    min_x = float('Inf')
+    min_y = float('Inf')
     for l in out.split('\n'):
         if (l):
             cnt += 1
             p1, p2 = eval(l)
-            dx += abs(p2[0] - p1[0])
-            dy += abs(p2[1] - p1[1])
+            ddx = abs(p2[0] - p1[0])
+            ddy = abs(p2[1] - p1[1])
 
-    return [dx / cnt, dy / cnt], (cnt >= 1)
+            if (ddx > max_x):
+                max_x = ddx
+            else:
+                if (ddx < min_x):
+                    min_x = ddx
+
+            if (ddy > max_y):
+                max_y = ddy
+            else:
+                if (ddy < min_y):
+                    min_y = ddy
+
+            dx += ddx
+            dy += ddy
+
+    return [dx / cnt / (max_x-min_x), dy / cnt / (max_y-min_y)], (cnt >= 3)
 
 
 def calc_flow_dir(dir):
