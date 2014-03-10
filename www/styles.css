@@ -1,0 +1,43 @@
+html, body, #wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+#map {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+#streetview {
+  position: absolute;
+  width: 90%;
+  height: 35%;
+  left: 5%;
+  right: 5%;
+  bottom: 5%;
+  background-color: #FFFFFF;
+}
+#pano {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background-color: #FFFFFF;
+  z-index: 100;
+}
+#pano img {
+  float: left;
+  margin: 5px;
+}
+#canvas-wrapper {
+  background-color: #FFFFFF;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 200;
+  display: none;
+}
