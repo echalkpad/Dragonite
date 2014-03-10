@@ -7,22 +7,121 @@ Created on 2014-02-27 22:00:28
 
 
 import numpy as np
+import Trace as tr
+import PlotTrace as pt
+
+# trace1 = {
+#     'id' : [1,2,3],
+#     'length': {1:3,2:4,3:5},
+#     'adjacency': {1:[None,2],2:[3,None],3:[None,None]},
+#     'image':[{'111011.jpg': 1},{'1202121.jpg': 2},{'112j121233.jpg':3}],
+
+# }
+
+# trace2 = {
+#     'id' : [4,5,6],
+#     'length': {4:3,5:4,6:5},
+#     'adjacency': {4:[5,None],5:[6,None],6:[None,None]},
+#     'image':[{'111011sa.jpg': 4},{'120as2121.jpg': 5},{'aa112j121233.jpg':6}],
+
+# }
+
+# trace3 = {
+#     'id' : [7,8,9],
+#     'length': {7:3,8:4,9:5},
+#     'adjacency': {7:[8,None],8:[9,None],9:[None,None]},
+#     'image':[{'111011sa.jpg': 7},{'120as2121.jpg': 8},{'aa112j121233.jpg':9}],
+
+# }
+
+# trace4 = {
+#     'id' : [10,11,12],
+#     'length': {10:3,11:4,12:5},
+#     'adjacency': {10:[None,11],11:[12,None],12:[None,None]},
+#     'image':[{'111011sa.jpg': 10},{'120as2121.jpg': 11},{'aa112j121233.jpg':12}],
+
+# }
+# trace5 = {
+#     'id' : [11,12,13],
+#     'length': {11:4,12:5,13:3},
+#     'adjacency': {11:[12,None],12:[13,None],13:[None,None]},
+#     'image':[{'111011sasd.jpg': 13},{'120as2121.jpg': 11},{'aa112j121233.jpg':12}],
+
+# }
+# trace6 = {
+#     'id' : [12,13,14],
+#     'length': {14:4,12:5,13:3},
+#     'adjacency': {12:[13,None],13:[None,14],14:[None,None]},
+#     'image':[{'111011sasd.jpg': 13},{'120as212s1.jpg': 14},{'aa112j121233.jpg':12}],
+
+# }
 
 trace1 = {
     'id' : [1,2,3],
-    'length': {1:3,2:4,3:5},
-    'adjacency': {1:[None,2],2:[3,None],3:[None,None]},
-    'image':[{'111011.jpg': 1},{'1202121.jpg': 2},{'112j121233.jpg':3}],
+    'length': {1:5, 2:10, 3: 5},
+    'adjacency': {1:[2,None], 2:[3, None], 3:[None, None]},
+    'image':[{'111011sasd.jpg': 1},{'120as212s1.jpg': 2},{'aa112j121233.jpg':3}]
+}
 
+trace1 = {
+    'id' : [1,2,3],
+    'length': {1:5, 2:10, 3: 4.5},
+    'connection':{
+                    1:[None,None,None,None,None,None,None,None,None,[2,None]],
+                    2:[None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,[3,None]],
+                    3:[None,None,None,None,None,None,None,None,None],
+                  },
+    'image':[{'111011sasd.jpg': [1,1]},{'111011sasd.jpg': [1,3]},{'111011sasd.jpg': [1,4]},{'120as212s1.jpg': [2,1]},{'aa112j121233.jpg':[2,2]}]
 }
 
 trace2 = {
     'id' : [4,5,6],
-    'length': {4:3,5:4,6:5},
-    'adjacency': {4:[5,None],5:[6,None],6:[None,None]},
-    'image':[{'111011sa.jpg': 4},{'120as2121.jpg': 5},{'aa112j121233.jpg':6}],
-
+    'length': {4:4, 5:9, 6: 8},
+    'connection':{
+                    4:[None,None,None,None,None,None,None,[5,None]],
+                    5:[None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,[6,None]],
+                    6:[None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None],
+                  },
+    'image':[{'111011sasd.jpg': [4,1]},{'111011sasd.jpg': [4,3]},{'111011sasd.jpg': [4,4]},{'120as212s1.jpg': [5,1]},{'aa112j121233.jpg':[5,2]}]
 }
+
+trace_merged = {
+    'id' : [4,5,6],
+    'length': {1:5,3: 4.5, 4:4, 5:13, 6: 8},
+    'connection':{
+                    1:[None,None,None,None,None,None,None,None,None,[2,None]],
+                    3:[None,None,None,None,None,None,None,None,None],
+                    4:[None,None,None,None,None,None,None,[5,None]],
+                    5:[None,None,None,None,None,None,None,None,None,None,None,None,\
+                        None,None,None,None,None,None,None,[3,None],None,None,None,None,None,[6,None]],
+                    6:[None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None],
+                  },
+    'image':[{'111011sasd.jpg': [4,1]},{'111011sasd.jpg': [4,3]},{'111011sasd.jpg': [4,4]},{'120as212s1.jpg': [5,1]},{'aa112j121233.jpg':[5,2]}]
+}
+print trace_merged
+
+
+trace2 = {
+    'id' : [4,5,6],
+    'length': {4:5, 5:15, 6: 7},
+    'adjacency': {4:[5,None], 5:[6, None], 6:[None, None]},
+    'image':[{'111011sasd.jpg': 4},{'120as212s1.jpg': 5},{'aa112j121233.jpg':6}],
+}
+
+trace3 = {
+    'id' : [7,8,9],
+    'length': {7:15, 8:5, 9:15},
+    'adjacency': {7:[None,8], 8:[None, 9], 9:[None, None]},
+    'image':[{'111011sasd.jpg': 7},{'120as212s1.jpg': 8},{'aa112j121233.jpg':9}],
+}
+
+trace4 = {
+    'id' : [10,11,12],
+    'length': {10:8, 11:10, 12:7},
+    'adjacency': {10:[11,None], 11:[12, None], 12:[None, None]},
+    'image':[{'111011sasd.jpg': 12},{'120as212s1.jpg': 10},{'aa112j121233.jpg':11}],
+}
+
 
 
 def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, reverse=False):
@@ -187,7 +286,7 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
                         adj_merge.values()[i][j] = pre_match_key_del
                     j += 1
                 i += 1
-            del adj_merge[pre_match_key]
+            #del adj_merge[pre_match_key]
 
         if (trim_path != None):
             print trim_path
@@ -218,14 +317,18 @@ def connect2MatchedTrace(trace1, trace2, match_trace1_id, match_trace2_id, rever
                     'length': merged_length,
                     'adjacency': adj_merge,
                     'image': merged_image}
+    #merged_trace = tr.Trace(merged_id, merged_length, adj_merge, merged_image)
     print merged_trace
     print contniue_match
 
 
     #merged_trace={}
     #print adj_new
+    return merged_trace
 
-
-
-    return 0
-connect2MatchedTrace(trace1, trace2, 3, 6, False)
+merged_trace = connect2MatchedTrace(trace1, trace2, 2, 5, False)
+merged_trace = connect2MatchedTrace(merged_trace, trace3, 5, 8, False)
+merged_trace = connect2MatchedTrace(merged_trace, trace4, 5, 10, False)
+#merged_trace = connect2MatchedTrace(merged_trace, trace5, 12, 12, False)
+#merged_trace = connect2MatchedTrace(merged_trace, trace6, 12, 12, False)
+pt.plotTraceMatch(merged_trace)

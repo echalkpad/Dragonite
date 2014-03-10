@@ -22,7 +22,7 @@ def returnMatrix(accFile):
 	pt.plotTraceL(foo)
 	#print(a.dt)
 
-
+#calNewPos(initialPos, length, direction, regulation=True)
 def prepareMatrix(compassFile):
 	a = rcf.ReadCompassFile(compassFile)
 	angle = []
@@ -31,6 +31,7 @@ def prepareMatrix(compassFile):
 		angle.append(a.azimuth)
 	#y = np.array(angle)
 	initialPos = Pos.Position(0,0)
+	#ma.calNewPos(initialPos, length, direction)
 	M = ma.calNewPosMatrix(initialPos,[1]*len(angle),angle,True)
 	pt.plotTraceM(M)
 

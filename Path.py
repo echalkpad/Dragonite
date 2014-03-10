@@ -1,3 +1,10 @@
+#-*- encoding: utf-8 -*-
+'''
+Created on 2014-03-09 16:34:27
+
+@author: quake0day
+'''
+
 class Path():
 
 	def __init__(self, id, path, images):

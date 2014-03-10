@@ -11,6 +11,16 @@ import numpy as np
 import Position as Pos
 import mahattan as ma
 
+def plotTraceMatch(trace):
+    #length = trace.length
+    #adj = trace.adjacency
+    #initialPos = Pos.Position(0,0)
+
+    #M = ma.calNewPosMatrix(initialPos,length,angle,False)
+    #plotTraceM(M)
+    return 0
+
+
 def plotTrace(x, y):
     # len x shold equal to len y
     assert len(x) == len(y)

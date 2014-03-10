@@ -1,3 +1,10 @@
+#-*- encoding: utf-8 -*-
+'''
+Created on 2014-03-09 16:34:15
+
+@author: quake0day
+'''
+
 # trace1 = {
 #     'id' : [1,2,3],
 #     'connection': {
@@ -36,6 +43,22 @@ class Trace():
 		offset = self.id.index(pathID)
 		return self.paths[offset].getLength()
 
+	# Given changelist = [a,b] 
+	# Change ID from b to a
+	# Use for changing "id" and "image" for a certain trace after merge
+	def changeID(self, ChangeList):
+		for changeSeed in ChangeList:
+			for imageKeyValue in self.image.iteritems():
+				print imageKeyValue
+				if imageKeyValue[1][0] == changeSeed[1]:
+					self.image[imageKeyValue[0]] = [changeSeed[0], imageKeyValue[1][1]]
+					#self.image[]
+			for singleID in self.id:
+				if singleID == changeSeed[1]:
+					self.id.remove(singleID)
+					self.id.append(changeSeed[0])
+		return 0
+
 	# def getPathID(self):
 	# 	for path in self.paths:
 	# 		print path.id
@@ -49,5 +72,9 @@ if __name__=="__main__":
     path6 = Path.Path(6, [None,None,None,None,None,None,None,None,None,None,None,None],[{'111011.jpg': 1},{'111011.jpg': 2}])
     #print path3.getLength()
     trace1 = Trace([path1,path2,path3])
-    print trace1.getImagePos('1110111.jpg')
-    print trace1.getLength(1)
+    #print trace1.getImagePos('1110111.jpg')
+    #print trace1.getLength(1)
+    changeList = [[4,3]]
+    print trace1.changeID(changeList)
+    print trace1.image.values()
+    print trace1.id

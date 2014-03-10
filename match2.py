@@ -1,3 +1,9 @@
+#-*- encoding: utf-8 -*-
+'''
+Created on 2014-03-09 16:34:20
+
+@author: quake0day
+'''
 
 import math
 import Trace as Trace
@@ -46,6 +52,7 @@ def comparePath(path1, path2):
                 return path2
 
 def match2Trace(trace1, trace2, imageMatch):
+    changeID = []
     image1 = imageMatch[0][0]
     image2 = imageMatch[0][1]
     position1 = trace1.getImagePos(image1)
@@ -82,8 +89,10 @@ def match2Trace(trace1, trace2, imageMatch):
                 # Compare left Path
                 if item[0][0] != None and item[1][0] != None:
                     if trace1.getLength(item[0][0]) >= trace2.getLength(item[1][0]):
+                        changeID.append([item[0][0],item[1][0]])
                         longer_path[0] = item[0][0]
                     else:
+                        changeID.append([item[1][0],item[0][0]])
                         longer_path[0] = item[1][0]
                 elif item[0][0] == item[1][0] == None:
                     longer_path[0] = None
@@ -96,8 +105,10 @@ def match2Trace(trace1, trace2, imageMatch):
                 # Compare right Path
                 if item[0][1] != None and item[1][1] != None:
                     if trace1.getLength(item[0][1]) >= trace2.getLength(item[1][1]):
+                        changeID.append([item[0][1],item[1][1]])
                         longer_path[1] = item[0][1]
                     else:
+                        changeID.append([item[1][1],item[0][1]])
                         longer_path[1] = item[1][1]
                 elif item[0][1] == item[1][1] == None:
                     longer_path[1] = None
@@ -155,8 +166,10 @@ def match2Trace(trace1, trace2, imageMatch):
                 # Compare left Path
                 if item[0][0] != None and item[1][0] != None:
                     if trace1.getLength(item[0][0]) >= trace2.getLength(item[1][0]):
+                        changeID.append([item[0][0],item[1][0]])
                         longer_path[0] = item[0][0]
                     else:
+                        changeID.append([item[1][0],item[0][0]])
                         longer_path[0] = item[1][0]
                 elif item[0][0] == item[1][0] == None:
                     longer_path[0] = None
@@ -169,8 +182,10 @@ def match2Trace(trace1, trace2, imageMatch):
                 # Compare right Path
                 if item[0][1] != None and item[1][1] != None:
                     if trace1.getLength(item[0][1]) >= trace2.getLength(item[1][1]):
+                        changeID.append([item[0][1],item[1][1]])
                         longer_path[1] = item[0][1]
                     else:
+                        changeID.append([item[1][1],item[0][1]])
                         longer_path[1] = item[1][1]
                 elif item[0][1] == item[1][1] == None:
                     longer_path[1] = None
@@ -191,7 +206,16 @@ def match2Trace(trace1, trace2, imageMatch):
         merged_trace += diff_trace_back
     #print diff_trace_back
     print merged_trace
+    print changeID
     #print merged_trace
+
+    # Merge Image and ID
+    trace1.changeID(changeID)
+    trace2.changeID(changeID)
+    print trace1.id
+    print trace2.id
+    print trace1.image
+    print trace2.image
 
 
     # if trace1_front_len == 0 and trace2_front_len == 0:
