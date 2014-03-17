@@ -78,10 +78,10 @@ def calc_flow_dir(dir):
     prev_img = dirlist[0]
 #    print "Speed: " + str(speed)
     for cur_img in dirlist[1:]:
-        print "Flow of: " + prev_img + ' ' + cur_img
+#        print "Flow of: " + prev_img + ' ' + cur_img
         avg, found = run_flow(img + '/' + prev_img, img + '/' + cur_img)
         if (found):
-            print "  avg: " + str(avg) + " class: " + str(find_bin(speed))
+#            print "  avg: " + str(avg) + " class: " + str(find_bin(speed))
             X += [avg]
             Y += [find_bin(speed)]
         prev_img = cur_img
@@ -110,31 +110,31 @@ def train_svm(root):
     return clf
 
 
-def classify(svm, i1, i2):
+def classify(s, i1, i2):
     vec, have_flow = run_flow(i1, i2)
     if (have_flow):
-        return svm.predict([vec])
+        return s.predict([vec])[0]
 
     return False
 
 
-if __file__ == "__main__":
-    trainX, trainY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/train')
+if __name__ == "__main__":
+    clf = train_svm('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/train')
+    print "==== Single Test ===="
+    print classify(clf, "/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test/9_Mar_2014_20-15-12_GMT/img/1394396123635.jpg",
+                   "/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test/9_Mar_2014_20-15-12_GMT/img/1394396125120.jpg")
     print "========== Collect Test ========="
     testX, testY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test')
 
-    clf = svm.SVC()
-    clf.fit(trainX, trainY)
-
     outY = clf.predict(testX)
 
-    XAr = np.array(trainX)
-    YAr = np.array(trainY)
+    # XAr = np.array(trainX)
+    # YAr = np.array(trainY)
 
-    pl.scatter(XAr[:, 0], XAr[:, 1], c=YAr)
-    pl.show()
-    print trainX
-    print trainY
+    # pl.scatter(XAr[:, 0], XAr[:, 1], c=YAr)
+    # pl.show()
+    # print trainX
+    # print trainY
 
     print "==== output ===="
     print testY
