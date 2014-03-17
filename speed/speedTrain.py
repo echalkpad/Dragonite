@@ -103,24 +103,39 @@ def collect_data(root):
     return X, Y
 
 
-trainX, trainY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/train')
-print "========== Collect Test ========="
-testX, testY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test')
+def train_svm(root):
+    trainX, trainY = collect_data(root)
+    clf = svm.SVC()
+    clf.fit(trainX, trainY)
+    return clf
 
-C = 1.0
-clf = svm.SVC()
-clf.fit(trainX, trainY)
 
-outY = clf.predict(testX)
+def classify(svm, i1, i2):
+    vec, have_flow = run_flow(i1, i2)
+    if (have_flow):
+        return svm.predict([vec])
 
-XAr = np.array(trainX)
-YAr = np.array(trainY)
+    return False
 
-pl.scatter(XAr[:, 0], XAr[:, 1], c=YAr)
-pl.show()
-print trainX
-print trainY
 
-print "==== output ===="
-print testY
-print outY
+if __file__ == "__main__":
+    trainX, trainY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/train')
+    print "========== Collect Test ========="
+    testX, testY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test')
+
+    clf = svm.SVC()
+    clf.fit(trainX, trainY)
+
+    outY = clf.predict(testX)
+
+    XAr = np.array(trainX)
+    YAr = np.array(trainY)
+
+    pl.scatter(XAr[:, 0], XAr[:, 1], c=YAr)
+    pl.show()
+    print trainX
+    print trainY
+
+    print "==== output ===="
+    print testY
+    print outY
