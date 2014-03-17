@@ -119,10 +119,13 @@ def classify(s, i1, i2):
 
 
 if __name__ == "__main__":
+    # BEGIN Example
     clf = train_svm('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/train')
     print "==== Single Test ===="
     print classify(clf, "/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test/9_Mar_2014_20-15-12_GMT/img/1394396123635.jpg",
                    "/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test/9_Mar_2014_20-15-12_GMT/img/1394396125120.jpg")
+    # END Example
+
     print "========== Collect Test ========="
     testX, testY = collect_data('/home/bruce/Works/Research/3D/open3d/Dragonite/speed/data/test')
 
