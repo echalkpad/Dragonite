@@ -37,4 +37,5 @@ nosetests.xml
 
 .DS_Store
 *.temp
+*.jpg
 *~
