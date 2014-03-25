@@ -11,8 +11,8 @@ import ReadCompassFile as rcf
 import PlotTrace as pt
 import Position as Pos
 import mahattan as ma
-accFile = "./data/Linear_Acceleration_24_Feb_2014_15-52-21_GMT.txt"
-compassFile = "./data/Orientation_24_Feb_2014_22-52-14_GMT.txt"
+accFile = "./data/Corrected_Gyroscope_Sensor_24_Feb_2014_15-52-21_GMT.txt"
+compassFile = "/Users/quake0day/trace/wholedavis3rd_video_short_2/15_Mar_2014_21-07-51_GMT/data/MPL_Orientation_15_Mar_2014_21-07-51_GMT.txt"
 
 def returnMatrix(accFile):
 	a = raf.ReadAccFile(accFile)
@@ -35,6 +35,6 @@ def prepareMatrix(compassFile):
 	M = ma.calNewPosMatrix(initialPos,[1]*len(angle),angle,True)
 	pt.plotTraceM(M)
 
-#returnMatrix(accFile)
+returnMatrix(accFile)
 
-prepareMatrix(compassFile)
+#prepareMatrix(compassFile)
