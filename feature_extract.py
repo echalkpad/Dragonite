@@ -18,11 +18,12 @@ def get_image_features(image):
 
 	# Compute descriptors for passed keypoints
 	keypoints, descriptors = surf_extractor.compute(image, keypoints)
+	print len(descriptors)
 	return keypoints, numpy.array(descriptors)
 
 if __name__ == "__main__":
 	print "OpenCV Demo, OpenCV version " + cv2.__version__
-	image = get_image("tst2.jpg")
+	image = get_image("/Users/quake0day/wholedavis3rd_video_short_2/path2_3/frame155.jpg")
 	image = cv2.resize(image, (600, 318))
 
 	keypoints, descriptors = get_image_features(image)
