@@ -61,7 +61,7 @@ def run_flow(i1, i2):
             dx += ddx
             dy += ddy
 
-    return [dx / cnt / (max_x-min_x+1.0), dy / cnt / (max_y-min_y+1.0)], (cnt >= 6)
+    return [dx / cnt / (max_x-min_x+1.0), dy / cnt / (max_y-min_y+1.0)], (cnt >= 3)
 
 
 def calc_flow_dir(dir):
@@ -81,7 +81,7 @@ def calc_flow_dir(dir):
         avg, found = run_flow(img + '/' + prev_img, img + '/' + cur_img)
         if (found):
             oflowcnt += 1
-            print "  avg: " + str(avg) + " class: " + str(find_bin(speed))
+#            print "  avg: " + str(avg) + " class: " + str(find_bin(speed))
             X += [avg]
             Y += [find_bin(speed)]
         prev_img = cur_img
