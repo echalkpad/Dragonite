@@ -3,10 +3,10 @@ import subprocess
 import sys
 from PIL import Image
 import imagehash 
-t = 0
+t = 46
 imageSets = []
 PATH = "/Users/quake0day/wholedavis3rd_video_short_2_b/path2_"
-while t <= 45:
+while t > 45 and t <= 68:
     imageSets.append(PATH+str(t))
     t += 1
 #newTrace = "/Users/quake0day/wholedavis3rd_video_short_2_b/path2_5"

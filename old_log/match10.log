@@ -1,0 +1,3734 @@
+['/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_7', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_9']
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame196.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame153.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame222.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame216.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame214.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame89.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame218.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame227.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame15.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame211.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame197.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame91.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame128.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame55.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame409.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame409.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame206.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame381.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame358.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame370.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame84.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame362.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame199.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame222.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame216.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame214.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame89.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame218.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame227.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame15.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame211.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame197.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame91.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame128.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame96.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame412.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame6.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame129.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame8.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame171.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame147.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame412.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame206.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame308.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame381.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame358.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame370.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame84.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame362.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame342.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame67.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame199.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame0.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame196.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame170.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame182.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame213.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame153.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame128.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame96.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame55.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame359.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame409.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame412.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame6.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame8.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame171.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame147.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame359.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame409.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame412.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame206.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame308.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame84.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame305.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame199.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame89.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame15.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame6.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame129.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame8.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame171.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame147.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame0.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame196.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame182.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame213.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame153.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame222.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame216.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame214.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame89.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame218.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame227.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame211.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame197.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame91.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame96.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame6.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame8.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame206.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame308.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame381.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame358.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame370.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame84.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame305.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame362.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame199.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame196.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame170.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame182.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame213.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame153.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame222.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame216.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame214.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame218.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame227.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame15.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame211.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame197.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame128.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame96.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame55.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame359.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame359.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame206.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame308.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame305.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame362.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame67.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame56.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame0.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame196.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame182.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame213.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame153.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame222.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame216.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame214.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame89.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame218.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame227.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame211.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame197.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame202.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame91.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame96.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame127.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame6.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame8.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame206.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame308.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame381.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame358.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame370.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame246.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame84.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame113.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame42.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame236.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame305.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66/frame362.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7/frame199.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame36.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame0.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame76.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame91.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame22.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame97.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame62.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame57.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame117.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame27.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame48.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame103.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame123.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame127.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64/frame153.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame222.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame74.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame108.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame83.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame216.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame18.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame214.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame89.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame218.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame169.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame227.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame12.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame104.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame102.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame30.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame162.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame211.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame197.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame104.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame177.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame91.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame132.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame128.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame46.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame96.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_51/frame35.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame412.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame110.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame6.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame94.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame56.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame8.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame78.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame106.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_59/frame69.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame277.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame326.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame116.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame253.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame306.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame302.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame280.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame328.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame208.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame148.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame202.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame239.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame226.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame130.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame255.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame189.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame208.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame412.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame195.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame336.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame142.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_61/frame312.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_66
+CANNOT MATCH THE SAME TRACE
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_7
+Training FLANN.
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame125.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_9/frame84.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_7 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame17.jpg
+===========
+TO_MATCH: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_67/frame111.jpg
+TRY:/Users/quake0day/wholedavis3rd_video_short_2_b/path2_7 MATCH /Users/quake0day/wholedavis3rd_video_short_2_b/path2_64
+Total Time: 907.027004004 s.

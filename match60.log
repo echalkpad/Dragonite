@@ -1,0 +1,34 @@
+Training FLANN.
+Done.
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_47/frame105.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_38/frame169.jpg
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_60/frame189.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_38/frame22.jpg
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_37/frame226.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_38/frame244.jpg
+Total Time: 226.01355195 s.
+Training FLANN.
+Done.
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_0/frame20.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_1/frame110.jpg
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_0/frame20.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_1/frame15.jpg
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_0/frame16.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_1/frame454.jpg
+Counting matches...
+Hit:  /Users/quake0day/wholedavis3rd_video_short_2_b/path2_0/frame16.jpg
+===========
+ORIGNAL: /Users/quake0day/wholedavis3rd_video_short_2_b/path2_1/frame38.jpg
+Total Time: 122.704678059 s.

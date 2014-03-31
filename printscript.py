@@ -17,8 +17,6 @@ import find_image
 import random
 import time
 # final_match_list = []
-global final_match_list
-final_match_list = []
 
 matchProgram = "/Users/quake0day/Dragonite/contour/match"
 imageSets = "/Users/quake0day/new/wholedavis3rd_short_1/path1_1/"
@@ -85,7 +83,7 @@ def imageQuality(image):
     return True
 
 
-def matching2Trace(newTrace, oldTrace):
+def matching2Trace(newTrace, oldTrace, final_match_list1):
     if newTrace == oldTrace:
         print "CANNOT MATCH THE SAME TRACE"
         return 0
@@ -141,7 +139,7 @@ def matching2Trace(newTrace, oldTrace):
                 #image = cv2.resize(image, (600, 318))
                 #keypoints, descriptors = get_image_features(image)
                 #if len(descriptors) > 300:
-                final_match_list.append([image_hash[match_list[i]],image_hash_old[hash_old[j]]])
+                final_match_list1.append([image_hash[match_list[i]],image_hash_old[hash_old[j]]])
                   #  print "BINGO"
                 #else:
                     #del image_hash[match_list[i]]
@@ -158,6 +156,7 @@ def matching2Trace(newTrace, oldTrace):
 
         #matching2Trace(item2, item)
 #matching2Trace(imageSets2_3, imageSets2_5)
+    return final_match_list1
 
 
 def doubleCheck(final_match_list):
@@ -221,28 +220,25 @@ def match2Image(image1, image2):
 if __name__=="__main__":
     
     imageSets = []
-    tomatch = sys.argv[1]
-    targets = ['/Users/quake0day/wholedavis3rd_video_short_2_b/path2_20', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_30', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_3', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_53', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_63', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_4', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_7', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_56', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_12', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_37', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_26', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_45', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_36', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_55', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_25', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_64', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_34', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_46', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_23', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_22', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_29', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_54', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_59', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_21', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_67', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_58', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_49', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_47', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_9', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_33', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_66', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_5', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_6', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_15', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_19', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_41', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_60', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_8', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_11', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_61', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_65', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_27', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_18', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_28', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_0', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_44', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_51', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_2', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_50', '/Users/quake0day/wholedavis3rd_video_short_2_b/path2_57']
+    PATH = "/Users/quake0day/wholedavis3rd_video_short_2_b/path2_"
+    totaltrace = int(sys.argv[1])
+    t = 0
+
+    b_list = range(0,68)
+    r = random.sample(b_list, totaltrace)
+    for k in r:
+        imageSets.append(PATH+str(k))
+
+
+    print imageSets
     start_time = time.time()
-    
 
-    for target in targets:
-        matching2Trace(tomatch,target)
-    #print final_match_list
-
-    if len(final_match_list) != 0:
-            to_match, target = doubleCheck(final_match_list)
-            filelists = target
-            try:
-                flann_matcher = find_image.train_index_new(filelists)
-                if to_match != None:
-                    for item in to_match:
-                        res = find_image.match_image(flann_matcher, item)
-                        if res == 0:
-                            print "ORIGNAL:",item
-            except:
-                pass
-
+    try:    
+        for itemxx in imageSets:
+            #print "TRY:" + itemxx + " MATCH " + itemyy
+            print "python matching.py " + itemxx 
+    except:
+        pass
     print "Total Time:", (time.time() - start_time), "s."
 
 

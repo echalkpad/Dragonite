@@ -2,8 +2,8 @@ import os
 import subprocess
 import sys
 
-PATH = "/Users/quake0day/wholedavis3rd_video_short_2"
-splitScript = "cv.py"
+PATH = "/Users/quake0day/tt/"
+splitScript = "cvv.py"
 path = os.listdir(PATH)
 for dirs in os.walk(PATH):
 	for item in dirs:

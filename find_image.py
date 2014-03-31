@@ -32,7 +32,7 @@ def train_index_new(filelists):
 
 	# Train FLANN matcher with descriptors of all images
 	for f in filelists:
-		print "Processing " + f
+		#print "Processing " + f
 		image = get_image(f)
 		keypoints, descriptors = get_image_features(image)
 		try:
@@ -96,9 +96,10 @@ def match_image(index, image):
 	# Show results
 	#print "Images", files
 	#print "Counts: ", count_dict
-	print "==========="
+
 	print "Hit: ", matched_image
 	print "==========="
+	return 0
 
 	#return matched_image
 

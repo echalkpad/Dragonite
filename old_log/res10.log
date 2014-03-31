@@ -1,0 +1,125 @@
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_0/frame20.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_1/frame110.jpg
+TO_MATCH: /Users/quake0day/MATCHING/path2_1/frame3.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_0/frame16.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_1/frame454.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+TO_MATCH: /Users/quake0day/MATCHING/path2_2/frame1.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_0/frame16.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_2/frame33.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_4/frame14.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_3/frame246.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+TO_MATCH: /Users/quake0day/MATCHING/path2_4/frame3.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_5/frame27.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_4/frame14.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_4/frame14.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_5/frame100.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_4/frame14.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_5/frame11.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_6/frame23.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_5/frame151.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_8/frame118.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_6/frame113.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_5/frame151.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_6/frame23.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_5/frame151.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_6/frame38.jpg
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_5/frame151.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_6/frame4.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_5/frame27.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_7/frame199.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_6/frame105.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_8/frame89.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_10/frame29.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_9/frame84.jpg
+TO_MATCH: /Users/quake0day/MATCHING/path2_9/frame4.jpg
+['/Users/quake0day/MATCHING/path2_0', '/Users/quake0day/MATCHING/path2_1', '/Users/quake0day/MATCHING/path2_2', '/Users/quake0day/MATCHING/path2_3', '/Users/quake0day/MATCHING/path2_4', '/Users/quake0day/MATCHING/path2_5', '/Users/quake0day/MATCHING/path2_6', '/Users/quake0day/MATCHING/path2_7', '/Users/quake0day/MATCHING/path2_8', '/Users/quake0day/MATCHING/path2_9', '/Users/quake0day/MATCHING/path2_10']
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+===========
+Hit:  /Users/quake0day/MATCHING/path2_9/frame147.jpg
+===========
+TO_MATCH: /Users/quake0day/MATCHING/path2_10/frame15.jpg
+TO_MATCH: /Users/quake0day/MATCHING/path2_10/frame3.jpg
