@@ -1,0 +1,38 @@
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+Hit:  /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_0/frame16.jpg
+===========
+ORIGNAL: /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_1/frame454.jpg
+Counting matches...
+Hit:  /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_0/frame20.jpg
+===========
+ORIGNAL: /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_1/frame110.jpg
+Total Time: 1.9793419838 s.
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+Hit:  /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_0/frame16.jpg
+===========
+ORIGNAL: /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_4/frame14.jpg
+Total Time: 1.6295568943 s.
+CANNOT MATCH THE SAME TRACE
+Total Time: 1.24042201042 s.
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+Hit:  /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_4/frame14.jpg
+===========
+ORIGNAL: /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_3/frame246.jpg
+Total Time: 1.42440891266 s.
+CANNOT MATCH THE SAME TRACE
+Training FLANN.
+Done.
+Counting matches...
+Hit:  /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_0/frame20.jpg
+===========
+ORIGNAL: /home/bruce/Works/Research/3D/open3d/Dragonite/evaluations/wholedavis3rd_video_short_2_b/path2_2/frame33.jpg
+Total Time: 1.2272400856 s.

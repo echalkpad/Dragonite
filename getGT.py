@@ -93,20 +93,40 @@ def correctness(matrix):
 			pass
 	print correct
 
-PATH = "./fortest/"
+def check_top(imageList):
+	COLOR = (26, 143, 255)
+	top = {}
+	for imageName in imageList:
+		image = imageName.split("/")[2]
+		im = Image.open(imageName)
+		matrix = get_colorMatrix(im, COLOR)
+		top[image] = len(matrix)
+	print sorted(top.items(),key = lambda top:top[1],reverse=True)
+
+
+
+PATH = "./f85/"
 COLOR = (26, 143, 255)
-matrix = parseMatchLog('./Match50.log')
-print len(matrix)
+matrix = parseMatchLog('./running_log/tmatch85.log')
+
 #print correctness(matrix)
 total_correct = 0
+toplist = []
 
 for item in matrix:
 	image1 = PATH+str(item[0])+".png"
 	image2 = PATH+str(item[1])+".png"
 	if check_merge(image1, image2, COLOR) == True:
 		total_correct +=1
-		mergeTwoTrace(image1,image2, image1, COLOR, offset=0):
+		#print image1, image2
+		mergeTwoTrace(image1,image2, image1, COLOR, offset=0)
+		mergeTwoTrace(image1,image2, image2, COLOR, offset=0)
+		toplist.append(image1)
+		toplist.append(image2)
+check_top(toplist)
+print len(matrix)
 print total_correct
+#print toplist
 
 #COLOR = (26, 143, 255)
 #print check_merge('./gt1.png', './gt3.png', COLOR)
